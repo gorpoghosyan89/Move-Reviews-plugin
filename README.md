@@ -1,2 +1,2 @@
-# Move-Reviews-plugin
-move reviews from one product to another
+WooCommerce-Move-Reviews for profuct's moving review .
+========================
